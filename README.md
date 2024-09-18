@@ -1,1 +1,1 @@
-# Colocando em prática conceitos de estrutra de condiçâo e de repetição na liguagem Java 💻
+# Colocando em prática conceitos de estrutra de condição e de repetição na liguagem Java 💻
